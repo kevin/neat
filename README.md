@@ -5,7 +5,7 @@ neuroevolution of augmenting topologies implementation
   <img src="./slimevolley.gif" width="45%" />
 </p>
 
-a quick and messy JAX implementation of NEAT (Stanley, K. O. and Miikkulainen, R. (2002).).
+a quick and messy JAX implementation of NEAT (Stanley, K. O. and Miikkulainen, R. 2002).
 
 based on TensorNEAT (Lishuang Wang, Mengfei Zhao, Enyu Liu, Kebin Sun, & Ran Cheng. (2024). Tensorized NeuroEvolution of Augmenting Topologies for GPU Acceleration.) but more faithful to the original paper.
 
