@@ -1,5 +1,5 @@
 # neat
-neuroevolution of augmenting topologies implementation
+neuroevolution of augmenting topologies implementation (code currently private, will put here soon)
 
 <p float="left">
   <img src="./slimevolley.gif" width="45%" />
